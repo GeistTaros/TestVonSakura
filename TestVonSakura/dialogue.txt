@@ -1,0 +1,28 @@
+Dies hier ist nur ein Test... 
+Hi, ich bin Sakura
+Freut mich
+Findest du mich hübsch?
+Dankeschön mein süßer
+Du bist tot
+TOT!!!!!!!
+Warum {cps=5}fandest du mich hässlich??????{/cps}
+You died with [Happyending] points
+...
+test bestanden
+test
+hello test
+ich bin glücklich
+Entscheide dich nun
+test9090 du hast [Happyending] punkte
+hello my friend
+Hi, ich bin [name1], du bist [ak]
+Herzlichen glückwunsch du hast [Happyending] punkte
+Du hast du Blaue Pille genommen
+Du hast die Rote Pille genommen
+Wir sind nun am Ende angekommen
+Du hast das gute Ende erhalten mit [Happyending] P
+Du hast das normale Ende erhalten mit [Happyending] P
+Du hast das schlechte Ende erhalten [Happyending] P
+Tschüss
+Tsüsch
+Bye

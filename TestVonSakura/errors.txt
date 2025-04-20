@@ -1,0 +1,9 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/storetestmodel.rpy", line 3: invalid syntax
+    def achnot()
+
+Ren'Py Version: Ren'Py 8.2.1.24030407
+Mon Oct  7 11:26:42 2024
