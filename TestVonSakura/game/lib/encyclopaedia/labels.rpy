@@ -1,0 +1,5 @@
+define encyclopaedia.sort_by_number = _("Nummer")
+define encyclopaedia.sort_by_alphabetical = _("A-Z")
+define encyclopaedia.sort_by_reverse_alphabetical = _("Z-A")
+define encyclopaedia.sort_by_subject = _("Kategorie")
+define encyclopaedia.sort_by_unread = _("Gelesen")
